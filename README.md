@@ -1,2 +1,2 @@
 # hello-world
-Knowledge Transfer Plan Sample Repository
+Knowledge Sharing Plan Sample Repository
