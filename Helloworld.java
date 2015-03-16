@@ -6,5 +6,4 @@ public class Helloworld {
 		System.out.println("Sample Github Code");
 		System.out.println("Welcome to Github-- Loaded from Local System");
 	}
-
 }
